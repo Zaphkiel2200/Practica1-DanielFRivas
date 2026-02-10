@@ -1,0 +1,17 @@
+.app-container {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.cards-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
